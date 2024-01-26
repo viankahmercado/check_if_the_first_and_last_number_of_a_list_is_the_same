@@ -7,6 +7,11 @@
 # Write a function to return True if the first and last number of a given list is same. If numbers are different then return False.
 
 # use a function and number list
+def first_and_last_is_same(number_list):
+    first_number = number_list[0]
+    last_number = number_list[-1]
+
+    return first_number == last_number
 
 # assign the two list and check by printing the result
 first_list = [10, 20, 30, 40, 10]
