@@ -6,3 +6,7 @@
 # Check if the first and last number of a list is the same
 
 # Write a function to return True if the first and last number of a given list is same. If numbers are different then return False.
+
+# use a function and number list
+
+# assign the two list and check by printing the result
