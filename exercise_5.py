@@ -15,4 +15,7 @@ def first_and_last_is_same(number_list):
 
 # assign the two list and check by printing the result
 first_list = [10, 20, 30, 40, 10]
+print(f"First List: {first_list} \nThe result is {first_and_last_is_same(first_list)}")
+
 second_list = [75, 65, 35, 75, 30]
+print(f"\nSecond List: {second_list} \nThe result is {first_and_last_is_same(second_list)}")
